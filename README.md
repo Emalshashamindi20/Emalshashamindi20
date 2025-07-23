@@ -30,8 +30,12 @@
 # 📊 Github Stats
 <img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Emalshashamindi20&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=FFFFFF&bg_color=000000&title_color=F85D7F&icon_color=F85D7F" height="192px"/>
 <img alt="Emalsha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emalshashamindi20&langs_count=8&layout=compact&theme=react&hide_border=FFFFFF&bg_color=000000&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<p><img alt="emalshashamindi20" src="https://github-readme-streak-stats.herokuapp.com/?user=emalshashamindi20&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=emalshashamindi20&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"" alt="emalshashamindi20" /></p>
+
+
+
+
 
 # ✨ My Projects: 
 <a href="https://github.com/Emalshashamindi20/Background-generator">
@@ -44,6 +48,8 @@
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Emalshashamindi20&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
+
+
 
 
 
