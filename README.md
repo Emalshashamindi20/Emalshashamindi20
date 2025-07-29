@@ -42,6 +42,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Emalshashamindi20&repo=Background-generator&theme=tokyonight" />
 </a>
 
+
+## 📁 My Projects
+
+### 🍽️ [Meal Mastery](https://github.com/Emalshashamindi20/Meal-Mastery)
+A modern food recipe app UI/UX design built in Figma. Features include onboarding, recipe categories, and user profiles.
+
 # 🏆 GitHub Thropies
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
