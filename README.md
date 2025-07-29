@@ -43,10 +43,12 @@
 </a>
 
 
-## 📁 My Projects
-
 ### 🍽️ [Meal Mastery](https://github.com/Emalshashamindi20/Meal-Mastery)
 A modern food recipe app UI/UX design built in Figma. Features include onboarding, recipe categories, and user profiles.
+
+### 🍽️ [CAFFIORA](https://github.com/Emalshashamindi20/CAFFIORA)
+A modern and responsive coffee website frontend built with HTML, CSS, and JavaScript and Smooth user interface for an engaging café experience.
+
 
 # 🏆 GitHub Thropies
 <div align=center>
